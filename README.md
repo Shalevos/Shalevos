@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shalevos
-- 👀 I’m interested in cryptography, specifically MPC
-- 🌱 I’m currently learning more about the intersection of MPC and blockchain technology
+- 👋  Hi, I’m @Shalevos
+- 👀  I’m interested in cryptography, specifically MPC
+- 🌱  I’m currently learning more about the intersection of MPC and blockchain technology
 - Cryptography Researcher at Zengo X
 
 <!---
